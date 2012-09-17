@@ -23,4 +23,4 @@ PRODUCT_RELEASE_NAME := GT-I9100G
 
 # Copy maguro specific prebuilt files
 PRODUCT_COPY_FILES += \
-    vendor/aokp/prebuilt/hdpi/bootanimation_480_800.zip:system/media/bootanimation.zip
+    vendor/aokp/prebuilt/bootanimation/bootanimation_480_800.zip:system/media/bootanimation.zip
